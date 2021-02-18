@@ -1,5 +1,5 @@
 export default {
-  title: "Om Oss",
+  title: "Om oss",
   name: "about",
   type: "document",
   fields: [
@@ -25,6 +25,11 @@ export default {
       options: {
         hotspot: true, // <-- Defaults to false
       },
+    },
+    {
+      title: "Prio?",
+      name: "prio",
+      type: "boolean",
     },
   ],
 }

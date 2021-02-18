@@ -14,6 +14,11 @@ export default {
       type: "string",
     },
     {
+      title: "Profilbild",
+      name: "image",
+      type: "image",
+    },
+    {
       title: "Kompetenser",
       name: "qualifications",
       type: "array",
