@@ -6,7 +6,12 @@ export default {
     {
       title: "Hero Text",
       name: "heroText",
-      type: "string",
+      type: "array",
+      of: [
+        {
+          type: "block",
+        },
+      ],
     },
     {
       title: "Bild",
