@@ -9,6 +9,16 @@ export default {
       type: "image",
     },
     {
+      title: "Logga 2",
+      name: "logo2",
+      type: "image",
+    },
+    {
+      title: "Logga 3",
+      name: "logo3",
+      type: "image",
+    },
+    {
       title: "Meny",
       name: "menu",
       type: "array",
